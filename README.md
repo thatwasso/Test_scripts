@@ -1,3 +1,4 @@
+(Scripts are made in Debian, other Distros may have different options)
 # Test_scripts
 Example script for learning bash and xargs. Made for Linux Day 2022 in Rieti (other infos at ILSRieti)
 
